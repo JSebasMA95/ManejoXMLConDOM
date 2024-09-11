@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ciudades>
+    <ciudad id="1">
+        <nombre>Bogotá</nombre>
+        <ubicacion pais="Colombia">
+            <estado>Cundinamarca</estado>
+            <latitud>4.7110</latitud>
+            <longitud>-74.0721</longitud>
+        </ubicacion>
+        <poblacion>7743955</poblacion>
+    </ciudad>
+    <ciudad id="2">
+        <nombre>Buenos Aires</nombre>
+        <ubicacion pais="Argentina">
+            <estado>Buenos Aires</estado>
+            <latitud>-34.6037</latitud>
+            <longitud>-58.3816</longitud>
+        </ubicacion>
+        <poblacion>2890151</poblacion>
+    </ciudad>
+    <ciudad id="3">
+        <nombre>Ciudad de México</nombre>
+        <ubicacion pais="México">
+            <estado>Ciudad de México</estado>
+            <latitud>19.4326</latitud>
+            <longitud>-99.1332</longitud>
+        </ubicacion>
+        <poblacion>9209944</poblacion>
+    </ciudad>
+    <ciudad id="4">
+        <nombre>Lima</nombre>
+        <ubicacion pais="Perú">
+            <estado>Lima</estado>
+            <latitud>-12.0464</latitud>
+            <longitud>-77.0428</longitud>
+        </ubicacion>
+        <poblacion>9674755</poblacion>
+    </ciudad>
+    <ciudad id="5">
+        <nombre>Santiago</nombre>
+        <ubicacion pais="Chile">
+            <estado>Región Metropolitana de Santiago</estado>
+            <latitud>-33.4489</latitud>
+            <longitud>-70.6693</longitud>
+        </ubicacion>
+        <poblacion>5614000</poblacion>
+    </ciudad>
+</ciudades>
